@@ -1,8 +1,9 @@
 // ==UserScript==
 // @name         GitHub Releases to Downloads for people that aren't nerds
 // @namespace    https://github.com/HaroldPetersInskipp
-// @homepage     https://gist.github.com/HaroldPetersInskipp/591329c8aafe54db7b90e10f9c1e44ff
-// @version      0.1.1
+// @version      0.1.2
+// @homepageURL  https://github.com/HaroldPetersInskipp/Releases-To-Downloads-For-People-That-Arent-Nerds
+// @supportURL   https://github.com/HaroldPetersInskipp/Releases-To-Downloads-For-People-That-Arent-Nerds/issues
 // @description  Changes the "Releases" link on GitHub pages to say "Downloads"
 // @author       Inskipp
 // @copyright    2024+, HaroldPetersInskipp (https://github.com/HaroldPetersInskipp)
