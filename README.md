@@ -1,6 +1,14 @@
 # Releases-To-Downloads-For-People-That-Arent-Nerds
 Change the GitHub Releases link to say Downloads 
 
+Screenshots
+------------
+### Before:
+<img alt="screenshot-1" width="480px" src="screenshot-1.png" />
+
+### After:
+<img alt="screenshot-2" width="480px" src="screenshot-2.png" />
+
 Installation
 ------------
 
