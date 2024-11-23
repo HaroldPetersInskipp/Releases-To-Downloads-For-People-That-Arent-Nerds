@@ -1,5 +1,5 @@
 # Releases-To-Downloads-For-People-That-Arent-Nerds
-Change the GitHub Releases text to say Downloads 
+Change the GitHub Releases text to say Downloads.
 
 Screenshots
 ------------
